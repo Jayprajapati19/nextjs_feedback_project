@@ -28,6 +28,7 @@ yarn-error.log*
 # local env files
 .env*.local
 RESEND_API_KEY
+resend.ts
 # vercel
 .vercel
 
