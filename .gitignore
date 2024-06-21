@@ -29,6 +29,7 @@ yarn-error.log*
 .env*.local
 RESEND_API_KEY
 resend.ts
+OPENAI_API_KEY
 # vercel
 .vercel
 
